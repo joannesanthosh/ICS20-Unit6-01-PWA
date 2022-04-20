@@ -13,7 +13,7 @@ if (navigator.serviceWorker) {
   })
 }
 
-'use strict'
+;("use strict")
 
 /**
  * This function converts the degrees from fahrenheit to celsius
