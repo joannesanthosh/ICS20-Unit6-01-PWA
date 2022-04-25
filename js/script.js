@@ -1,9 +1,9 @@
 /* Created by: Joanne Santhosh
  * Created on: Apr 2022
- * This file contains the JS functions for index.html 
-*/
+ * This file contains the JS functions for index.html
+ */
 
-'use strict'
+"use strict"
 
 /**
  * Check servie worker.
