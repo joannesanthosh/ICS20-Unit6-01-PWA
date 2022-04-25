@@ -1,8 +1,7 @@
-
 {
-  "name": "Mr Coxall's App",
-  "short_name": "Mr Coxall's App",
-  "description": "Github Page for Mr Coxall's App",
+  "name": "Joanne Santhosh's App",
+  "short_name": "Joanne Santhosh's App",
+  "description": "Github Page for Joanne Santhosh's App",
   "scope": "/ICS20-Unit-6-01-PWA/",
   "start_url": "/ICS20-Unit-6-01-PWA/",
   "background_color": "#ffffff",

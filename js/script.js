@@ -1,8 +1,9 @@
-// Copyright (c) 2022 Joanne Santhosh All rights reserved
-//
-// Created by: Joanne Santhosh
-// Created on: Apr 2022
-// This file contains the JS functions for index.html
+/* Created by: Joanne Santhosh
+ * Created on: Apr 2022
+ * This file contains the JS functions for index.html 
+*/
+
+'use strict'
 
 /**
  * Check servie worker.
@@ -12,8 +13,6 @@ if (navigator.serviceWorker) {
     scope: "/ICS20-Unit6-01-PWA/",
   })
 }
-
-;("use strict")
 
 /**
  * This function converts the degrees from fahrenheit to celsius
